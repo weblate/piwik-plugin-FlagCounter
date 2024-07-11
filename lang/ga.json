@@ -1,1 +1,17 @@
-{}
+{
+    "FlagCounter": {
+        "CacheDescription": "méid i soicindí",
+        "CacheIntroduction": "Chun ualach buan ar an bhfreastalaí piwik a sheachaint, déanfar sonraí na tíre a thaisceadh ar feadh an ama ar leith.",
+        "CacheTime": "Saolré taisce",
+        "Font": "Teaghlaigh cló",
+        "FontColor": "Dath cló",
+        "FontSize": "Méid cló",
+        "GeneratorDescription": "Anseo thíos is féidir leat roinnt roghanna cumraíochta a roghnú chun an url a ghiniúint chun an íomhá/iframe a chur san áireamh i do shuíomh Gréasáin.",
+        "HideFlag": "Folaigh bratacha",
+        "NumberOfColumns": "Líon na gcolún",
+        "NumberOfRows": "Líon na sraitheanna",
+        "PluginDescription": "Ligeann an breiseán seo duit staitistic shimplí a chur san áireamh ar do shuíomh Gréasáin a thaispeánann bratacha agus amas na dtíortha as ar tháinig do chuairteoirí.",
+        "ShowCountryCode": "Taispeáin cód tíre",
+        "UrlToImage": "URL chuig íomhá FlagCounter"
+    }
+}
