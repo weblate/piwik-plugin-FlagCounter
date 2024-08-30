@@ -1,6 +1,6 @@
 {
     "FlagCounter": {
-        "CacheDescription": "saniye cinsinden süre",
+        "CacheDescription": "saniye olarak süre",
         "CacheIntroduction": "Kalıcı bir yük oluşturmamak için Matomo sunucusundaki ülke bilgileri belirtilen süreyle ön bellekte tutulur.",
         "CacheTime": "Ön bellek süresi",
         "Font": "Yazı türü ailesi",
